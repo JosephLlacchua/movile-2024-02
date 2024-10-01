@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoLibre</string>
+    <string name="nombre_del_personaje">Nombre del Personaje</string>
+    <string name="descripci_n_del_personaje">Descripción del Personaje</string>
+    <string name="agregar_a_favoritos">Agregar a Favoritos</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="eliminar_todos_los_favoritos">Eliminar Todos los Favoritos</string>
+    <string name="descripci_n_corta_del_personaje">Descripción corta del personaje</string>
+</resources>
